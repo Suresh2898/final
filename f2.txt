@@ -1,0 +1,4 @@
+abc
+bcd
+[A[C[C[def
+ghi
